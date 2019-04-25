@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{201B6254-5579-4E15-9E70-9EE548A1C9FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPLQueue", "TPLQueue\TPLQueue.csproj", "{1A8E78F6-C7D3-4B89-8459-346B779344BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201B6254-5579-4E15-9E70-9EE548A1C9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201B6254-5579-4E15-9E70-9EE548A1C9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201B6254-5579-4E15-9E70-9EE548A1C9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201B6254-5579-4E15-9E70-9EE548A1C9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8E78F6-C7D3-4B89-8459-346B779344BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8E78F6-C7D3-4B89-8459-346B779344BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8E78F6-C7D3-4B89-8459-346B779344BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8E78F6-C7D3-4B89-8459-346B779344BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
